@@ -56,6 +56,10 @@ h1 {
 .photo{
     border: #222222 2px solid;
     margin: 4px;
+    margin-top:14px;
+    height:200px;
+    width: 175px;
+
 }
 
 p {
